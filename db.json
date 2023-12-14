@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "yoyo honey sing",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    }
+  ]
+}
